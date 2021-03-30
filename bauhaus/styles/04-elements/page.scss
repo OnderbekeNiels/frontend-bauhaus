@@ -1,0 +1,8 @@
+html {
+  background: map-get(map-get($palettes, color-neutral), 100);;
+}
+
+body {
+  font: #{ $base-font-size }/#{ $base-line-height } $font-stack-alpha;
+  color: map-get(map-get($palettes, color-neutral), 900);
+}

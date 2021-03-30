@@ -1,0 +1,10 @@
+.c-header{
+    display: flex;
+    color: map-get(map-get($palettes, color-neutral), 500);
+    padding: rem(24px);
+}
+
+.c-header__page{
+    font-weight: 700;
+    margin-right: 0.5rem;
+}
