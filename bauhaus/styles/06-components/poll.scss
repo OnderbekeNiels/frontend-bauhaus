@@ -1,0 +1,15 @@
+.c-poll{
+    max-width: rem(464px);
+}
+
+.c-poll-item__label{
+    cursor: pointer;
+}
+
+.c-poll-item + .c-poll-item{
+    margin-top: rem(24px);
+}
+
+.c-poll-item + .c-button-cta{
+    margin-top: rem(32px);
+}

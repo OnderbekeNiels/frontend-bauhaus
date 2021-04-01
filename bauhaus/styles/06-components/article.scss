@@ -14,3 +14,9 @@
 .c-article-info__type{
     font-weight: 700;
 }
+
+.c-article-small__content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
