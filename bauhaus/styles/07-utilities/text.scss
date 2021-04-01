@@ -1,0 +1,30 @@
+.u-text-headline{
+    font-size: rem(70px);
+    line-height: rem(74px);
+}
+
+.u-text-headline--sm{
+    font-size: rem(50px);
+    color: $theme-color;
+    line-height: rem(58px);
+}
+
+
+.u-text-subheadline{
+    font-size: rem(34px);
+    line-height: rem(36px);
+}
+
+.u-text-highlighted{
+    font-size: rem(18px);
+    line-height: rem(22px);
+    font-weight: 600;
+    font-family: $font-stack-beta;
+}
+
+.u-text-information{
+    font-size: rem(16px);
+    line-height: rem(22px);
+    font-weight: 500;
+    font-family: $font-stack-beta;
+}

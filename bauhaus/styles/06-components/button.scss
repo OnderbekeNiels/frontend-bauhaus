@@ -1,0 +1,9 @@
+.c-button-cta{
+    all: unset;
+    font-size: rem(14px);
+    line-height: rem(18px);
+    font-weight: 700;
+    color: $theme-color;
+    padding: rem(10px) rem(40px);
+    border: 2px solid $theme-color;
+}
