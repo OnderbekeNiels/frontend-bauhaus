@@ -1,3 +1,11 @@
-.o-row {
-  padding: 2rem;
+.o-row--sm {
+  padding: rem(100px)  rem(52px) 0;
+}
+
+.o-row--md{
+  padding: rem(100px)  rem(100px) 0;
+}
+
+.o-row--lg{
+  padding: rem(133px)  rem(133px) 0;  
 }

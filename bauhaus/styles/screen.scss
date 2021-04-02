@@ -13,11 +13,15 @@
 
 // Q2? Hoe gaan we herbruikbare CSS afhandelen?
 // 05 Objects
+@import './05-objects/row.scss';
+@import './05-objects/container.scss';
+
 // 06 Components
 @import './06-components/header.scss';
 @import './06-components/article.scss';
 @import './06-components/button.scss';
 @import './06-components/poll.scss';
+@import './06-components/image.module.scss';
 // -> react components van maken
 
 // TODO: utilities
